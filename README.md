@@ -208,7 +208,7 @@ Main Features:
 
 ## Full Dashboard
 
-<img src="student_employability_dashboard.png" width="100%">
+<img src="student-employability-dashboard.jpg" width="100%">
 
 ---
 
